@@ -12,6 +12,6 @@ const sum = function s (a, b) {
 }
 
 var a = 3, 
-	b = 4;
+	b = 5;
 
 console.log('sum = ' + sum(a, b));
